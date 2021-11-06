@@ -1,0 +1,111 @@
+2021-11-05T23:55:17.908Z [my-bank-api] info: API Started and File Created!
+2021-11-05T23:55:20.385Z [my-bank-api] info: API Started!
+2021-11-05T23:55:31.213Z [my-bank-api] error: GET /account - loggers is not defined
+2021-11-05T23:55:37.962Z [my-bank-api] error: GET /account - loggers is not defined
+2021-11-05T23:58:35.514Z [my-bank-api] info: API Started!
+2021-11-06T00:30:56.161Z [my-bank-api] info: API Started!
+2021-11-06T00:31:02.045Z [my-bank-api] info: API Started!
+2021-11-06T00:31:03.817Z [my-bank-api] info: API Started!
+2021-11-06T00:31:08.483Z [my-bank-api] info: API Started!
+2021-11-06T00:32:57.761Z [my-bank-api] info: GET / account
+2021-11-06T00:33:26.865Z [my-bank-api] info: PUT /account - {"id":7,"name":"Elizabeth Ferraz","balance":1850}
+2021-11-06T00:33:28.644Z [my-bank-api] info: API Started!
+2021-11-06T00:42:34.577Z [my-bank-api] info: API Started!
+2021-11-06T00:42:37.230Z [my-bank-api] info: API Started!
+2021-11-06T00:46:53.783Z [my-bank-api] info: API Started!
+2021-11-06T00:47:30.603Z [my-bank-api] info: POST /account - {"id":1,"name":"Elisa Martins"}
+2021-11-06T00:47:31.911Z [my-bank-api] info: API Started!
+2021-11-06T00:47:57.130Z [my-bank-api] info: API Started!
+2021-11-06T00:48:05.906Z [my-bank-api] info: API Started!
+2021-11-06T00:48:13.700Z [my-bank-api] info: API Started!
+2021-11-06T00:48:16.991Z [my-bank-api] info: POST /account - {"id":2,"name":"Elisa Martins"}
+2021-11-06T00:48:18.144Z [my-bank-api] info: API Started!
+2021-11-06T00:48:30.831Z [my-bank-api] info: API Started!
+2021-11-06T00:48:38.625Z [my-bank-api] info: API Started!
+2021-11-06T00:48:40.812Z [my-bank-api] info: API Started!
+2021-11-06T00:48:44.307Z [my-bank-api] info: API Started!
+2021-11-06T00:48:46.798Z [my-bank-api] info: API Started!
+2021-11-06T00:48:49.108Z [my-bank-api] info: POST /account - {"id":3,"name":"Elisa Martins"}
+2021-11-06T00:48:50.772Z [my-bank-api] info: API Started!
+2021-11-06T00:49:18.750Z [my-bank-api] info: API Started!
+2021-11-06T00:49:59.937Z [my-bank-api] info: API Started!
+2021-11-06T00:50:01.034Z [my-bank-api] info: API Started!
+2021-11-06T00:50:05.089Z [my-bank-api] info: API Started!
+2021-11-06T00:50:08.396Z [my-bank-api] info: API Started!
+2021-11-06T00:50:38.833Z [my-bank-api] info: API Started!
+2021-11-06T00:50:39.611Z [my-bank-api] error: POST /account - Name e balance são obrigatórios
+2021-11-06T00:51:04.497Z [my-bank-api] error: POST /account - Name e balance são obrigatórios
+2021-11-06T00:51:37.423Z [my-bank-api] info: API Started!
+2021-11-06T00:51:42.560Z [my-bank-api] info: API Started!
+2021-11-06T00:52:48.771Z [my-bank-api] info: POST /account - {"id":4,"name":"Marilia Mendonça","balance":0}
+2021-11-06T00:52:52.883Z [my-bank-api] info: API Started!
+2021-11-06T00:52:58.772Z [my-bank-api] error: POST /account - Name e balance são obrigatórios
+2021-11-06T00:53:56.687Z [my-bank-api] info: API Started!
+2021-11-06T00:54:00.893Z [my-bank-api] info: API Started!
+2021-11-06T00:54:05.323Z [my-bank-api] info: API Started!
+2021-11-06T00:54:06.645Z [my-bank-api] info: API Started!
+2021-11-06T00:54:13.702Z [my-bank-api] info: API Started!
+2021-11-06T00:54:33.565Z [my-bank-api] info: API Started!
+2021-11-06T00:54:36.215Z [my-bank-api] info: API Started!
+2021-11-06T00:54:40.180Z [my-bank-api] info: API Started!
+2021-11-06T00:54:55.859Z [my-bank-api] info: API Started!
+2021-11-06T00:55:11.103Z [my-bank-api] info: API Started!
+2021-11-06T00:55:24.237Z [my-bank-api] error: POST /account - Name e balance são obrigatórios
+2021-11-06T00:55:36.962Z [my-bank-api] info: POST /account - {"id":5,"name":"João Abulquerque","balance":52}
+2021-11-06T00:55:38.563Z [my-bank-api] info: API Started!
+2021-11-06T00:57:41.821Z [my-bank-api] info: API Started!
+2021-11-06T00:58:34.066Z [my-bank-api] info: API Started!
+2021-11-06T00:58:36.767Z [my-bank-api] info: API Started!
+2021-11-06T00:58:39.896Z [my-bank-api] info: API Started!
+2021-11-06T00:58:49.814Z [my-bank-api] info: API Started!
+2021-11-06T00:58:57.994Z [my-bank-api] info: API Started!
+2021-11-06T00:59:01.007Z [my-bank-api] info: API Started!
+2021-11-06T01:01:06.216Z [my-bank-api] info: API Started!
+2021-11-06T01:02:24.789Z [my-bank-api] info: API Started!
+2021-11-06T01:03:11.082Z [my-bank-api] info: API Started!
+2021-11-06T01:03:40.660Z [my-bank-api] info: GET / account
+2021-11-06T01:04:08.234Z [my-bank-api] info: API Started!
+2021-11-06T01:05:49.791Z [my-bank-api] info: API Started!
+2021-11-06T01:05:59.325Z [my-bank-api] info: API Started!
+2021-11-06T01:06:05.262Z [my-bank-api] info: API Started!
+2021-11-06T01:06:09.759Z [my-bank-api] info: API Started!
+2021-11-06T01:06:11.582Z [my-bank-api] info: API Started!
+2021-11-06T01:06:15.714Z [my-bank-api] info: API Started!
+2021-11-06T01:06:17.311Z [my-bank-api] info: API Started!
+2021-11-06T01:06:18.815Z [my-bank-api] info: API Started!
+2021-11-06T01:06:20.272Z [my-bank-api] info: API Started!
+2021-11-06T01:06:32.416Z [my-bank-api] info: API Started!
+2021-11-06T01:07:54.984Z [my-bank-api] info: API Started!
+2021-11-06T01:09:27.799Z [my-bank-api] info: API Started!
+2021-11-06T01:09:31.893Z [my-bank-api] info: API Started!
+2021-11-06T01:09:45.576Z [my-bank-api] info: API Started!
+2021-11-06T01:09:48.466Z [my-bank-api] info: API Started!
+2021-11-06T01:09:51.433Z [my-bank-api] info: API Started!
+2021-11-06T01:10:00.323Z [my-bank-api] info: API Started!
+2021-11-06T01:10:07.004Z [my-bank-api] info: API Started!
+2021-11-06T01:12:04.558Z [my-bank-api] info: API Started!
+2021-11-06T01:13:02.415Z [my-bank-api] info: API Started!
+2021-11-06T01:13:15.731Z [my-bank-api] info: API Started!
+2021-11-06T01:13:17.503Z [my-bank-api] info: API Started!
+2021-11-06T01:13:41.659Z [my-bank-api] info: API Started!
+2021-11-06T01:13:47.516Z [my-bank-api] info: API Started!
+2021-11-06T01:14:43.345Z [my-bank-api] info: API Started!
+2021-11-06T01:15:09.932Z [my-bank-api] info: API Started!
+2021-11-06T01:15:11.651Z [my-bank-api] info: API Started!
+2021-11-06T10:53:35.263Z [my-bank-api] info: API Started!
+2021-11-06T11:01:51.524Z [my-bank-api] info: API Started!
+2021-11-06T11:02:04.694Z [my-bank-api] info: API Started!
+2021-11-06T11:02:14.843Z [my-bank-api] info: API Started!
+2021-11-06T11:02:23.730Z [my-bank-api] info: GET / account
+2021-11-06T11:02:31.380Z [my-bank-api] error: PUT /account - Id e Name e balance são obrigatórios
+2021-11-06T11:02:56.154Z [my-bank-api] info: PUT /account - {"id":5,"name":"Gabi","balance":2500}
+2021-11-06T11:02:57.267Z [my-bank-api] info: API Started!
+2021-11-06T11:13:13.909Z [my-bank-api] info: API Started!
+2021-11-06T11:13:25.583Z [my-bank-api] info: API Started!
+2021-11-06T11:13:37.764Z [my-bank-api] info: API Started!
+2021-11-06T11:13:41.760Z [my-bank-api] info: API Started!
+2021-11-06T11:13:48.488Z [my-bank-api] info: API Started!
+2021-11-06T11:14:00.197Z [my-bank-api] info: API Started!
+2021-11-06T11:14:53.498Z [my-bank-api] info: GET / account
+2021-11-06T11:20:26.055Z [my-bank-api] info: API Started!
+2021-11-06T11:24:17.462Z [my-bank-api] info: API Started!

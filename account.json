@@ -1,0 +1,27 @@
+{
+  "nextId": 6,
+  "account": [
+    {
+      "id": 1,
+      "name": "Elisa Martins"
+    },
+    {
+      "id": 2,
+      "name": "Elisa Martins"
+    },
+    {
+      "id": 3,
+      "name": "Elisa Martins"
+    },
+    {
+      "id": 4,
+      "name": "Marilia Mendonça",
+      "balance": 0
+    },
+    {
+      "id": 5,
+      "name": "Gabi",
+      "balance": 2500
+    }
+  ]
+}

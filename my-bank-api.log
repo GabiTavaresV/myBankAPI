@@ -110,3 +110,306 @@
 2021-11-06T11:20:26.055Z [my-bank-api] info: API Started!
 2021-11-06T11:24:17.462Z [my-bank-api] info: API Started!
 2021-11-06T12:02:59.166Z [my-bank-api] info: API Started!
+2021-11-06T13:12:10.558Z [my-bank-api] info: API Started!
+2021-11-06T13:12:52.552Z [my-bank-api] info: POST /account - {"id":6,"name":"Luiza Tavares ","balance":1250}
+2021-11-06T13:12:57.384Z [my-bank-api] info: API Started!
+2021-11-06T13:13:05.906Z [my-bank-api] info: GET / account
+2021-11-06T13:15:08.401Z [my-bank-api] info: API Started!
+2021-11-06T13:15:57.235Z [my-bank-api] info: API Started!
+2021-11-06T13:16:02.753Z [my-bank-api] info: API Started!
+2021-11-06T13:16:17.949Z [my-bank-api] info: API Started!
+2021-11-06T13:16:40.964Z [my-bank-api] info: API Started!
+2021-11-06T13:17:03.154Z [my-bank-api] info: API Started!
+2021-11-06T13:20:36.313Z [my-bank-api] info: API Started!
+2021-11-06T13:21:22.838Z [my-bank-api] info: API Started!
+2021-11-06T13:21:39.780Z [my-bank-api] info: API Started!
+2021-11-06T13:22:05.845Z [my-bank-api] info: API Started!
+2021-11-06T13:22:19.513Z [my-bank-api] info: API Started!
+2021-11-06T13:22:45.080Z [my-bank-api] info: API Started!
+2021-11-06T13:23:24.743Z [my-bank-api] info: API Started!
+2021-11-06T13:23:53.150Z [my-bank-api] info: API Started!
+2021-11-06T13:24:25.935Z [my-bank-api] info: API Started!
+2021-11-06T13:24:30.550Z [my-bank-api] info: API Started!
+2021-11-06T13:24:48.205Z [my-bank-api] info: API Started!
+2021-11-06T13:25:02.610Z [my-bank-api] info: API Started!
+2021-11-06T13:25:43.808Z [my-bank-api] info: API Started!
+2021-11-06T13:26:03.649Z [my-bank-api] info: API Started!
+2021-11-06T13:26:11.978Z [my-bank-api] info: API Started!
+2021-11-06T13:26:16.588Z [my-bank-api] info: API Started!
+2021-11-06T13:26:32.538Z [my-bank-api] info: API Started!
+2021-11-06T13:27:19.542Z [my-bank-api] info: API Started!
+2021-11-06T13:27:33.042Z [my-bank-api] info: API Started!
+2021-11-06T13:27:59.196Z [my-bank-api] info: GET / account
+2021-11-06T13:28:05.230Z [my-bank-api] info: GET /account:id
+2021-11-06T13:28:20.467Z [my-bank-api] info: POST /account - {"id":7,"name":"Tais Tavares ","balance":3500}
+2021-11-06T13:28:22.557Z [my-bank-api] info: API Started!
+2021-11-06T13:28:36.405Z [my-bank-api] info: PUT /account - {"id":2,"name":"Gabi","balance":7500}
+2021-11-06T13:28:38.329Z [my-bank-api] info: API Started!
+2021-11-06T13:28:46.329Z [my-bank-api] info: PATH /account/updateBalance - {"id":2,"balance":2556}
+2021-11-06T13:28:48.395Z [my-bank-api] info: API Started!
+2021-11-06T13:28:54.852Z [my-bank-api] info: GET / account
+2021-11-06T13:29:00.443Z [my-bank-api] info: DELETE /account:id - 2
+2021-11-06T13:29:02.653Z [my-bank-api] info: API Started!
+2021-11-06T13:29:11.430Z [my-bank-api] info: GET / account
+2021-11-06T13:40:40.787Z [my-bank-api] info: API Started!
+2021-11-06T13:42:27.390Z [my-bank-api] info: API Started!
+2021-11-06T13:42:39.962Z [my-bank-api] info: API Started!
+2021-11-06T13:42:47.733Z [my-bank-api] info: API Started!
+2021-11-06T13:43:06.557Z [my-bank-api] info: API Started!
+2021-11-06T13:43:12.248Z [my-bank-api] info: API Started!
+2021-11-06T13:43:20.419Z [my-bank-api] info: API Started!
+2021-11-06T13:43:30.769Z [my-bank-api] info: API Started!
+2021-11-06T13:43:33.834Z [my-bank-api] info: API Started!
+2021-11-06T13:43:42.950Z [my-bank-api] info: API Started!
+2021-11-06T13:44:02.914Z [my-bank-api] info: API Started!
+2021-11-06T13:44:29.484Z [my-bank-api] info: API Started!
+2021-11-06T13:46:02.921Z [my-bank-api] info: API Started!
+2021-11-06T13:46:06.876Z [my-bank-api] info: API Started!
+2021-11-06T13:46:09.188Z [my-bank-api] info: API Started!
+2021-11-06T13:46:41.408Z [my-bank-api] info: API Started!
+2021-11-06T13:47:13.479Z [my-bank-api] info: API Started!
+2021-11-06T13:47:16.274Z [my-bank-api] info: API Started!
+2021-11-06T13:47:21.934Z [my-bank-api] info: API Started!
+2021-11-06T13:47:43.783Z [my-bank-api] info: API Started!
+2021-11-06T13:47:48.157Z [my-bank-api] info: API Started!
+2021-11-06T13:47:51.050Z [my-bank-api] info: API Started!
+2021-11-06T13:48:29.663Z [my-bank-api] info: API Started!
+2021-11-06T13:48:57.886Z [my-bank-api] info: API Started!
+2021-11-06T13:56:54.144Z [my-bank-api] info: API Started!
+2021-11-06T13:57:32.585Z [my-bank-api] info: API Started!
+2021-11-06T13:59:07.564Z [my-bank-api] info: POST /account - {"id":8,"name":"Vinicius Vieira ","balance":3500}
+2021-11-06T13:59:10.003Z [my-bank-api] info: API Started!
+2021-11-06T13:59:11.050Z [my-bank-api] info: GET / account
+2021-11-06T14:04:52.838Z [my-bank-api] info: API Started!
+2021-11-06T14:05:38.407Z [my-bank-api] info: API Started!
+2021-11-06T14:05:42.340Z [my-bank-api] info: API Started!
+2021-11-06T14:06:00.001Z [my-bank-api] info: API Started!
+2021-11-06T14:06:13.967Z [my-bank-api] info: API Started!
+2021-11-06T14:06:37.822Z [my-bank-api] info: API Started!
+2021-11-06T14:06:46.345Z [my-bank-api] info: API Started!
+2021-11-06T14:06:52.441Z [my-bank-api] info: API Started!
+2021-11-06T14:06:59.885Z [my-bank-api] info: API Started!
+2021-11-06T14:07:39.768Z [my-bank-api] info: API Started!
+2021-11-06T14:09:14.691Z [my-bank-api] info: API Started!
+2021-11-06T14:09:21.806Z [my-bank-api] info: API Started!
+2021-11-06T14:09:33.660Z [my-bank-api] info: API Started!
+2021-11-06T14:10:39.625Z [my-bank-api] info: API Started!
+2021-11-06T14:10:42.882Z [my-bank-api] info: API Started!
+2021-11-06T14:10:48.408Z [my-bank-api] info: API Started!
+2021-11-06T14:11:22.267Z [my-bank-api] info: API Started!
+2021-11-06T14:11:27.155Z [my-bank-api] info: API Started!
+2021-11-06T14:11:33.734Z [my-bank-api] info: API Started!
+2021-11-06T14:11:36.933Z [my-bank-api] info: API Started!
+2021-11-06T14:11:42.661Z [my-bank-api] info: API Started!
+2021-11-06T14:12:16.574Z [my-bank-api] info: API Started!
+2021-11-06T14:12:20.658Z [my-bank-api] info: API Started!
+2021-11-06T14:12:43.613Z [my-bank-api] info: API Started!
+2021-11-06T14:12:53.443Z [my-bank-api] info: API Started!
+2021-11-06T14:12:55.887Z [my-bank-api] info: API Started!
+2021-11-06T14:14:12.984Z [my-bank-api] info: API Started!
+2021-11-06T14:14:17.773Z [my-bank-api] info: API Started!
+2021-11-06T14:14:28.388Z [my-bank-api] info: API Started!
+2021-11-06T14:14:32.675Z [my-bank-api] info: API Started!
+2021-11-06T14:14:52.777Z [my-bank-api] info: API Started!
+2021-11-06T14:15:37.612Z [my-bank-api] info: API Started!
+2021-11-06T14:16:48.243Z [my-bank-api] info: API Started!
+2021-11-06T14:16:51.932Z [my-bank-api] info: API Started!
+2021-11-06T14:17:11.735Z [my-bank-api] info: API Started!
+2021-11-06T14:17:14.706Z [my-bank-api] info: API Started!
+2021-11-06T14:17:30.188Z [my-bank-api] info: API Started!
+2021-11-06T14:17:33.543Z [my-bank-api] info: API Started!
+2021-11-06T14:17:42.334Z [my-bank-api] info: API Started!
+2021-11-06T14:17:48.484Z [my-bank-api] info: API Started!
+2021-11-06T14:18:18.124Z [my-bank-api] info: API Started!
+2021-11-06T14:18:50.226Z [my-bank-api] info: API Started!
+2021-11-06T14:19:00.299Z [my-bank-api] info: API Started!
+2021-11-06T14:19:07.023Z [my-bank-api] info: API Started!
+2021-11-06T14:19:09.396Z [my-bank-api] info: API Started!
+2021-11-06T14:19:22.173Z [my-bank-api] info: API Started!
+2021-11-06T14:19:24.406Z [my-bank-api] info: API Started!
+2021-11-06T14:19:27.289Z [my-bank-api] info: API Started!
+2021-11-06T14:19:58.856Z [my-bank-api] info: API Started!
+2021-11-06T14:20:12.912Z [my-bank-api] info: API Started!
+2021-11-06T14:20:50.471Z [my-bank-api] info: API Started!
+2021-11-06T14:20:59.924Z [my-bank-api] info: API Started!
+2021-11-06T14:21:17.134Z [my-bank-api] info: API Started!
+2021-11-06T14:21:47.513Z [my-bank-api] info: API Started!
+2021-11-06T14:21:49.554Z [my-bank-api] info: API Started!
+2021-11-06T14:21:56.895Z [my-bank-api] info: API Started!
+2021-11-06T14:22:17.524Z [my-bank-api] info: API Started!
+2021-11-06T14:22:23.856Z [my-bank-api] info: API Started!
+2021-11-06T14:22:29.690Z [my-bank-api] info: API Started!
+2021-11-06T14:22:40.650Z [my-bank-api] info: API Started!
+2021-11-06T14:22:59.151Z [my-bank-api] info: API Started!
+2021-11-06T14:23:17.484Z [my-bank-api] info: API Started!
+2021-11-06T14:23:24.407Z [my-bank-api] info: API Started!
+2021-11-06T14:23:28.985Z [my-bank-api] info: API Started!
+2021-11-06T14:23:34.109Z [my-bank-api] info: API Started!
+2021-11-06T14:23:59.649Z [my-bank-api] info: API Started!
+2021-11-06T14:24:04.231Z [my-bank-api] info: API Started!
+2021-11-06T14:24:11.993Z [my-bank-api] info: API Started!
+2021-11-06T14:24:35.654Z [my-bank-api] info: GET / account
+2021-11-06T14:24:42.084Z [my-bank-api] info: GET /account:id
+2021-11-06T14:24:54.264Z [my-bank-api] info: POST /account - {"id":9,"name":"Alice Vieira ","balance":25}
+2021-11-06T14:24:57.017Z [my-bank-api] info: API Started!
+2021-11-06T14:24:57.076Z [my-bank-api] info: GET / account
+2021-11-06T14:25:07.981Z [my-bank-api] error: PUT /account - Registro não encontrado
+2021-11-06T14:25:20.955Z [my-bank-api] error: PATCH /account - Registro não encontrado
+2021-11-06T14:25:28.888Z [my-bank-api] error: PATCH /account - Cannot read properties of undefined (reading '3')
+2021-11-06T14:25:35.726Z [my-bank-api] info: API Started!
+2021-11-06T14:25:40.859Z [my-bank-api] info: GET / account
+2021-11-06T14:30:41.771Z [my-bank-api] info: API Started!
+2021-11-06T14:31:24.767Z [my-bank-api] info: API Started!
+2021-11-06T14:31:58.515Z [my-bank-api] info: API Started!
+2021-11-06T14:32:01.364Z [my-bank-api] info: API Started!
+2021-11-06T14:32:15.906Z [my-bank-api] info: API Started!
+2021-11-06T14:32:33.944Z [my-bank-api] info: API Started!
+2021-11-06T14:32:39.091Z [my-bank-api] info: API Started!
+2021-11-06T14:32:44.199Z [my-bank-api] info: API Started!
+2021-11-06T14:32:47.463Z [my-bank-api] info: API Started!
+2021-11-06T14:32:48.813Z [my-bank-api] info: API Started!
+2021-11-06T14:33:29.802Z [my-bank-api] info: API Started!
+2021-11-06T14:33:46.785Z [my-bank-api] info: API Started!
+2021-11-06T14:33:50.800Z [my-bank-api] info: API Started!
+2021-11-06T14:34:00.538Z [my-bank-api] info: API Started!
+2021-11-06T14:34:25.917Z [my-bank-api] info: API Started!
+2021-11-06T14:35:06.309Z [my-bank-api] info: API Started!
+2021-11-06T14:35:53.930Z [my-bank-api] info: API Started!
+2021-11-06T14:36:03.372Z [my-bank-api] info: API Started!
+2021-11-06T14:36:08.508Z [my-bank-api] info: API Started!
+2021-11-06T14:36:16.054Z [my-bank-api] info: API Started!
+2021-11-06T14:36:22.602Z [my-bank-api] info: API Started!
+2021-11-06T14:36:31.231Z [my-bank-api] info: API Started!
+2021-11-06T14:36:34.648Z [my-bank-api] info: API Started!
+2021-11-06T14:36:47.907Z [my-bank-api] info: GET / account
+2021-11-06T14:37:15.691Z [my-bank-api] info: API Started!
+2021-11-06T14:37:35.998Z [my-bank-api] info: API Started!
+2021-11-06T14:37:39.929Z [my-bank-api] info: API Started!
+2021-11-06T14:37:44.557Z [my-bank-api] info: API Started!
+2021-11-06T14:37:47.078Z [my-bank-api] info: API Started!
+2021-11-06T14:38:01.274Z [my-bank-api] info: API Started!
+2021-11-06T14:38:11.340Z [my-bank-api] info: API Started!
+2021-11-06T14:38:45.424Z [my-bank-api] info: API Started!
+2021-11-06T14:38:53.819Z [my-bank-api] info: API Started!
+2021-11-06T14:39:18.590Z [my-bank-api] info: API Started!
+2021-11-06T14:40:04.088Z [my-bank-api] info: API Started!
+2021-11-06T14:40:13.838Z [my-bank-api] info: API Started!
+2021-11-06T14:40:16.352Z [my-bank-api] info: API Started!
+2021-11-06T14:40:25.981Z [my-bank-api] info: API Started!
+2021-11-06T14:40:38.316Z [my-bank-api] info: API Started!
+2021-11-06T14:40:45.588Z [my-bank-api] info: API Started!
+2021-11-06T14:41:06.676Z [my-bank-api] info: API Started!
+2021-11-06T14:41:34.593Z [my-bank-api] info: API Started!
+2021-11-06T14:41:59.009Z [my-bank-api] info: API Started!
+2021-11-06T14:42:52.634Z [my-bank-api] info: API Started!
+2021-11-06T14:42:57.525Z [my-bank-api] info: API Started!
+2021-11-06T14:42:59.673Z [my-bank-api] info: API Started!
+2021-11-06T14:43:10.582Z [my-bank-api] info: API Started!
+2021-11-06T14:43:14.168Z [my-bank-api] info: API Started!
+2021-11-06T14:43:23.697Z [my-bank-api] info: API Started!
+2021-11-06T14:43:54.021Z [my-bank-api] info: API Started!
+2021-11-06T14:44:00.531Z [my-bank-api] info: API Started!
+2021-11-06T14:44:16.708Z [my-bank-api] info: API Started!
+2021-11-06T14:44:41.939Z [my-bank-api] info: API Started!
+2021-11-06T14:44:57.253Z [my-bank-api] info: API Started!
+2021-11-06T14:45:03.181Z [my-bank-api] info: API Started!
+2021-11-06T14:45:12.710Z [my-bank-api] info: API Started!
+2021-11-06T14:45:15.389Z [my-bank-api] info: API Started!
+2021-11-06T14:45:18.000Z [my-bank-api] info: API Started!
+2021-11-06T14:45:25.043Z [my-bank-api] info: API Started!
+2021-11-06T14:45:31.871Z [my-bank-api] info: API Started!
+2021-11-06T14:45:38.372Z [my-bank-api] info: API Started!
+2021-11-06T14:45:52.487Z [my-bank-api] info: API Started!
+2021-11-06T14:46:24.045Z [my-bank-api] info: API Started!
+2021-11-06T14:47:06.799Z [my-bank-api] info: API Started!
+2021-11-06T14:47:23.435Z [my-bank-api] info: API Started!
+2021-11-06T14:47:28.302Z [my-bank-api] info: API Started!
+2021-11-06T14:47:55.736Z [my-bank-api] info: API Started!
+2021-11-06T14:48:06.890Z [my-bank-api] info: API Started!
+2021-11-06T14:48:32.293Z [my-bank-api] info: API Started!
+2021-11-06T14:48:34.783Z [my-bank-api] info: API Started!
+2021-11-06T14:48:36.746Z [my-bank-api] info: API Started!
+2021-11-06T14:48:41.779Z [my-bank-api] info: API Started!
+2021-11-06T14:49:01.381Z [my-bank-api] info: API Started!
+2021-11-06T14:49:52.084Z [my-bank-api] info: API Started!
+2021-11-06T14:49:56.355Z [my-bank-api] info: API Started!
+2021-11-06T14:50:02.391Z [my-bank-api] info: API Started!
+2021-11-06T14:50:11.217Z [my-bank-api] info: API Started!
+2021-11-06T14:54:52.833Z [my-bank-api] info: API Started!
+2021-11-06T14:55:02.089Z [my-bank-api] info: API Started!
+2021-11-06T14:55:48.841Z [my-bank-api] info: API Started!
+2021-11-06T14:55:53.797Z [my-bank-api] info: API Started!
+2021-11-06T14:56:27.259Z [my-bank-api] info: API Started!
+2021-11-06T14:56:42.155Z [my-bank-api] info: API Started!
+2021-11-06T14:57:20.732Z [my-bank-api] info: API Started!
+2021-11-06T14:57:36.215Z [my-bank-api] info: API Started!
+2021-11-06T14:57:39.251Z [my-bank-api] info: API Started!
+2021-11-06T14:57:45.171Z [my-bank-api] info: API Started!
+2021-11-06T14:57:48.015Z [my-bank-api] info: API Started!
+2021-11-06T15:02:38.603Z [my-bank-api] info: API Started!
+2021-11-06T15:02:42.473Z [my-bank-api] info: API Started!
+2021-11-06T15:02:58.746Z [my-bank-api] info: API Started!
+2021-11-06T15:03:14.858Z [my-bank-api] info: API Started!
+2021-11-06T15:03:26.630Z [my-bank-api] info: API Started!
+2021-11-06T15:03:40.983Z [my-bank-api] info: API Started!
+2021-11-06T15:03:48.358Z [my-bank-api] info: API Started!
+2021-11-06T15:03:53.574Z [my-bank-api] info: API Started!
+2021-11-06T15:04:00.662Z [my-bank-api] info: API Started!
+2021-11-06T15:04:05.100Z [my-bank-api] info: API Started!
+2021-11-06T15:04:11.974Z [my-bank-api] info: API Started!
+2021-11-06T15:04:18.550Z [my-bank-api] info: API Started!
+2021-11-06T15:05:06.007Z [my-bank-api] info: API Started!
+2021-11-06T15:05:10.731Z [my-bank-api] info: API Started!
+2021-11-06T15:05:18.173Z [my-bank-api] info: API Started!
+2021-11-06T15:05:21.799Z [my-bank-api] info: API Started!
+2021-11-06T15:05:27.863Z [my-bank-api] info: API Started!
+2021-11-06T15:05:58.277Z [my-bank-api] info: API Started!
+2021-11-06T15:07:32.225Z [my-bank-api] info: API Started!
+2021-11-06T15:07:33.957Z [my-bank-api] info: API Started!
+2021-11-06T15:07:38.038Z [my-bank-api] info: API Started!
+2021-11-06T15:07:46.082Z [my-bank-api] info: API Started!
+2021-11-06T15:07:49.606Z [my-bank-api] info: API Started!
+2021-11-06T15:07:52.013Z [my-bank-api] info: API Started!
+2021-11-06T15:07:55.028Z [my-bank-api] info: API Started!
+2021-11-06T15:08:26.444Z [my-bank-api] info: API Started!
+2021-11-06T15:08:32.629Z [my-bank-api] info: API Started!
+2021-11-06T15:08:46.843Z [my-bank-api] info: API Started!
+2021-11-06T15:08:48.595Z [my-bank-api] info: API Started!
+2021-11-06T15:08:53.189Z [my-bank-api] info: API Started!
+2021-11-06T15:08:55.394Z [my-bank-api] info: API Started!
+2021-11-06T15:09:01.207Z [my-bank-api] info: API Started!
+2021-11-06T15:09:10.020Z [my-bank-api] info: API Started!
+2021-11-06T15:09:13.074Z [my-bank-api] info: API Started!
+2021-11-06T15:10:08.152Z [my-bank-api] info: API Started!
+2021-11-06T15:10:53.482Z [my-bank-api] info: API Started!
+2021-11-06T15:11:06.384Z [my-bank-api] info: API Started!
+2021-11-06T15:15:35.924Z [my-bank-api] info: API Started!
+2021-11-06T15:15:55.491Z [my-bank-api] info: GET / account
+2021-11-06T15:16:05.732Z [my-bank-api] error: GET /account - Cannot access 'account' before initialization
+2021-11-06T15:16:24.557Z [my-bank-api] info: GET / account
+2021-11-06T15:16:34.760Z [my-bank-api] error: GET /account - Cannot access 'account' before initialization
+2021-11-06T15:16:48.855Z [my-bank-api] info: POST /account - {"id":10,"name":"Alice Vieira ","balance":25}
+2021-11-06T15:16:51.919Z [my-bank-api] info: API Started!
+2021-11-06T15:17:16.890Z [my-bank-api] error: PUT /account - Cannot read properties of undefined (reading '8')
+2021-11-06T15:17:20.017Z [my-bank-api] info: API Started!
+2021-11-06T15:17:28.565Z [my-bank-api] error: PATCH /account - Cannot access 'account' before initialization
+2021-11-06T15:17:29.758Z [my-bank-api] error: PATCH /account - Cannot access 'account' before initialization
+2021-11-06T15:17:35.521Z [my-bank-api] info: DELETE /account:id - 10
+2021-11-06T15:17:37.372Z [my-bank-api] info: API Started!
+2021-11-06T15:17:38.489Z [my-bank-api] info: GET / account
+2021-11-06T15:17:47.202Z [my-bank-api] info: DELETE /account:id - 9
+2021-11-06T15:17:52.337Z [my-bank-api] info: API Started!
+2021-11-06T15:18:10.533Z [my-bank-api] info: API Started!
+2021-11-06T15:18:15.255Z [my-bank-api] info: GET / account
+2021-11-06T15:18:19.203Z [my-bank-api] error: GET /account - Cannot access 'account' before initialization
+2021-11-06T15:18:22.794Z [my-bank-api] info: POST /account - {"id":11,"name":"Alice Vieira ","balance":25}
+2021-11-06T15:18:24.839Z [my-bank-api] info: API Started!
+2021-11-06T15:18:26.575Z [my-bank-api] error: PUT /account - Registro não encontrado
+2021-11-06T15:18:30.846Z [my-bank-api] error: PATCH /account - Cannot access 'account' before initialization
+2021-11-06T15:18:37.856Z [my-bank-api] error: PATCH /account - Cannot access 'account' before initialization
+2021-11-06T15:18:42.192Z [my-bank-api] info: DELETE /account:id - 9
+2021-11-06T15:18:44.732Z [my-bank-api] info: API Started!
+2021-11-06T15:18:44.825Z [my-bank-api] info: GET / account
+2021-11-06T15:19:15.998Z [my-bank-api] error: GET /account - Maximum call stack size exceeded
+2021-11-06T15:19:16.076Z [my-bank-api] info: API Started!
+2021-11-06T15:20:46.540Z [my-bank-api] info: API Started!

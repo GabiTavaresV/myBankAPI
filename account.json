@@ -1,12 +1,8 @@
 {
-  "nextId": 6,
+  "nextId": 12,
   "account": [
     {
       "id": 1,
-      "name": "Elisa Martins"
-    },
-    {
-      "id": 2,
       "name": "Elisa Martins"
     },
     {
@@ -21,7 +17,27 @@
     {
       "id": 5,
       "name": "Gabi",
-      "balance": 2500
+      "balance": 15000
+    },
+    {
+      "id": 6,
+      "name": "Luiza Tavares ",
+      "balance": 1250
+    },
+    {
+      "id": 7,
+      "name": "Tais Tavares ",
+      "balance": 3500
+    },
+    {
+      "id": 8,
+      "name": "Vinicius Vieira ",
+      "balance": 3500
+    },
+    {
+      "id": 11,
+      "name": "Alice Vieira ",
+      "balance": 25
     }
   ]
 }
